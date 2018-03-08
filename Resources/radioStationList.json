@@ -1,0 +1,69 @@
+[
+    {
+        "Id": 1,
+        "ChannelName": "VGM Radio",
+        "ChannelUrl": "http://radio.vgmradio.com:8040/stream",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 2,
+        "ChannelName": "Eurobeat Radio",
+        "ChannelUrl": "http://eurobeat.stream.laut.fm/eurobeat?ref=radiode&t302=2018-02-15_17-52-03&uuid=d61a2c85-f5f1-4bdc-9809-82cdd9e6c8cb",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 3,
+        "ChannelName": "RPGNetwork Radio",
+        "ChannelUrl": "http://stream.rpgamers.net:8000/rpgn?_=1428837997C",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 4,
+        "ChannelName": "RMF Game Music",
+        "ChannelUrl": "http://195.150.20.7/GAMEMUSIC",
+        "HasMetadata": "false"
+    },
+    {
+        "Id": 5,
+        "ChannelName": "Radio Rivendell",
+        "ChannelUrl": "http://radiorivendell.ddns.net:8000/128kbit.mp3",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 6,
+        "ChannelName": "Nightwave Plaza",
+        "ChannelUrl": "https://plaza.one/mp3",
+        "HasMetadata": "true"
+    },
+    {
+        "Id" : 7,
+        "ChannelName": "Antyradio",
+        "ChannelUrl": "http://n-1-3.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+        "HasMetadata": "false"
+    },
+    {
+        "Id" : 8,
+        "ChannelName": "RMF Classic",
+        "ChannelUrl": "http://195.150.20.243:8000/rmf_classic",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 9,
+        "ChannelName": "Gensokyo Radio",
+        "ChannelUrl": "http://gensokyoradio.net:8000/1/listen.mp3",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 10,
+        "ChannelName": "Xenon Radio",
+        "ChannelUrl": "http://stream.xenonradio.com:8000/XenonRadio_192",
+        "HasMetadata": "true"
+    },
+    {
+        "Id": 11,
+        "ChannelName": "Touhou Radio",
+        "ChannelUrl": "http://37.59.41.178:8000/touhouradio.mp3",
+        "HasMetadata": "true"
+    }
+
+]
